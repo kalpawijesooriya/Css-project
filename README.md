@@ -1,6 +1,7 @@
 # Css-project
 Clone project
- https://github.com/kalpawijesooriya/Css-project.git
+
+git clone https://github.com/kalpawijesooriya/Css-project.git
  
  Open project folder.
  
